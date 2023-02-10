@@ -7,11 +7,11 @@
 
 - 🔨 I'm currently going deep into REACT.JS!
 
-- 🧑‍🔧 I'm trying
+- 🧑‍🔧 I'm trying to build a big project
 
-- 🥅 2023  GOALS: TypeScript | NextJs | Happiness
+- 🥅 2023 GOALS : TypeScript | NextJs | Happiness
 
-- 💥Fun fact: I am inquistive about who am I !!
+- 💥Fun fact: I am inquisitive about who am I !!
 
   
 
@@ -35,7 +35,7 @@
 
 <img  align="left"  alt="GitHub"  width="26px"  src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"  style="padding-right:10px;"  />
 
-&nbsp;
-&nbsp;
-&nbsp;
-<img align="left" alt="mayankgoyal's github stats" src="https://github-readme-stats-wioj.vercel.app/api?username=themayank-goyal&show_icons=true&hide_border=true&theme=radical"/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img align="center" alt="mayankgoyal's github stats" src="https://github-readme-stats-wioj.vercel.app/api?username=themayank-goyal&show_icons=true&hide_border=true&theme=radical"/>
